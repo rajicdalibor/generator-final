@@ -32,7 +32,7 @@ jobs:
       - name: Deploy cloud functions to Firebase
         uses: w9jds/firebase-action@v13.16.0
         with:
-          args: deploy --only firestore:functions
+          args: deploy --only functions
         env:
           PROJECT_PATH: "./backend"
           GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_FINAL_GENERATOR_DEV }}
