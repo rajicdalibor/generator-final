@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "default": "final-generator-dev",
+    "prod": "final-generator-dev-prod"
+  },
+  "targets": {
+    "final-generator-dev": {
+      "hosting": {
+        "admin-dev": [
+          "finalname-admin"
+        ]
+      }
+    },
+    "final-generator-dev-prod": {
+      "hosting": {
+        "admin-prod": [
+          "finalname-admin-prod"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
