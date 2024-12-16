@@ -1,20 +1,20 @@
 {
   "projects": {
-    "default": "final-generator-dev",
-    "prod": "final-generator-dev-prod"
+    "default": "aaaa-generator-final-dev",
+    "prod": "aaaa-generator-final-dev-prod"
   },
   "targets": {
-    "final-generator-dev": {
+    "aaaa-generator-final-dev": {
       "hosting": {
         "admin-dev": [
-          "finalname-admin"
+          "projectname1-admin"
         ]
       }
     },
-    "final-generator-dev-prod": {
+    "aaaa-generator-final-dev-prod": {
       "hosting": {
         "admin-prod": [
-          "finalname-admin-prod"
+          "projectname1-admin-prod"
         ]
       }
     }

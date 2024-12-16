@@ -8,12 +8,12 @@ import { initializeApp } from 'firebase/app';
 // }
 
 const firebaseConfig = {
-  "projectId": "final-generator-dev",
-  "appId": "1:189103463897:web:eb8c9a52ed7489765a4dc8",
-  "storageBucket": "final-generator-dev.firebasestorage.app",
-  "apiKey": "AIzaSyB9kqj4J_ms15NtLaIx6lNzCD4Z92wwxIs",
-  "authDomain": "final-generator-dev.firebaseapp.com",
-  "messagingSenderId": "189103463897"
+  "projectId": "aaaa-generator-final-dev",
+  "appId": "1:225312462474:web:ae565dc22742c938417f73",
+  "storageBucket": "aaaa-generator-final-dev.firebasestorage.app",
+  "apiKey": "AIzaSyBPuhf4_Aqd1HaxdV3NPQUpHDloGBLJzuE",
+  "authDomain": "aaaa-generator-final-dev.firebaseapp.com",
+  "messagingSenderId": "225312462474"
 };
 
 // Initialize Firebase app

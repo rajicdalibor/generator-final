@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "189103463897",
-    "project_id": "final-generator-dev",
-    "storage_bucket": "final-generator-dev.firebasestorage.app"
+    "project_number": "225312462474",
+    "project_id": "aaaa-generator-final-dev",
+    "storage_bucket": "aaaa-generator-final-dev.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:189103463897:android:2b8663ec0f22b5605a4dc8",
+        "mobilesdk_app_id": "1:225312462474:android:c55a3036f899b12c417f73",
         "android_client_info": {
-          "package_name": "final.test.finalflutter"
+          "package_name": "aaaaa.ddd.fluttername1"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBSN_0Bx3HENSTVwDYfgIc3UubyE4kku-Y"
+          "current_key": "AIzaSyDU_gzOI0xP-muiLPRbRD0fyaso8YaAxdI"
         }
       ],
       "services": {

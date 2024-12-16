@@ -35,7 +35,7 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_FINAL_GENERATOR_DEV }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_AAAA_GENERATOR_FINAL_DEV }}"
           channelId: live
-          projectId: final-generator-dev
+          projectId: aaaa-generator-final-dev
           target: admin-dev
