@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "default": "projekat-test-dev",
+    "prod": "projekat-test-dev-prod"
+  },
+  "targets": {
+    "projekat-test-dev": {
+      "hosting": {
+        "admin-dev": [
+          "oooooo-admin"
+        ]
+      }
+    },
+    "projekat-test-dev-prod": {
+      "hosting": {
+        "admin-prod": [
+          "oooooo-admin-prod"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
