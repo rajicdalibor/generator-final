@@ -1,0 +1,17 @@
+{
+  "env": "dev",
+  "label": "Dev",
+  "SUPPORT_EMAIL": "",
+  "PROJECT_ID": "test-final-dalibor-dev",
+  "MESSAGING_SENDER_ID": "53252273258",
+  "STORAGE_BUCKET": "test-final-dalibor-dev.firebasestorage.app",
+  "ANDROID_APP_ID": "1:53252273258:android:31131d3096dedbc9290613",
+  "ANDROID_API_KEY": "AIzaSyA6BPyICF1UMkDkq4kXoxgF9CPMvbqt41o",
+  "IOS_API_KEY": "AIzaSyBarz6hJttqKyrxc2uP23anVYxafu-InFA",
+  "IOS_APP_ID": "1:53252273258:ios:41d9d97ab8dba593290613",
+  "IOS_BUNDLE_ID": "dddfff.dcc.aaasss",
+  "IOS_CLIENT_ID": "",
+  "PLAY_STORE_APP_URL": "",
+  "APP_STORE_APP_URL": "",
+  "GOOGLE_MAPS_API_KEY": ""
+}

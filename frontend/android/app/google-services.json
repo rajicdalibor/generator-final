@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53252273258",
+    "project_id": "test-final-dalibor-dev",
+    "storage_bucket": "test-final-dalibor-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53252273258:android:31131d3096dedbc9290613",
+        "android_client_info": {
+          "package_name": "dddfff.dcc.aaasss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BPyICF1UMkDkq4kXoxgF9CPMvbqt41o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
