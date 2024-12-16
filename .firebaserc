@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "default": "test2-final-dev",
+    "prod": "test2-final-dev-prod"
+  },
+  "targets": {
+    "test2-final-dev": {
+      "hosting": {
+        "admin-dev": [
+          "aadds-admin"
+        ]
+      }
+    },
+    "test2-final-dev-prod": {
+      "hosting": {
+        "admin-prod": [
+          "aadds-admin-prod"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
