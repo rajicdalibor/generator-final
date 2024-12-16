@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "default": "najnoviji-dev",
+    "prod": "najnoviji-dev-prod"
+  },
+  "targets": {
+    "najnoviji-dev": {
+      "hosting": {
+        "admin-dev": [
+          "imeprojekta-admin"
+        ]
+      }
+    },
+    "najnoviji-dev-prod": {
+      "hosting": {
+        "admin-prod": [
+          "imeprojekta-admin-prod"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

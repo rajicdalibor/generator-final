@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312694616614",
+    "project_id": "najnoviji-dev",
+    "storage_bucket": "najnoviji-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312694616614:android:5bd9887c9ef054b0666ce7",
+        "android_client_info": {
+          "package_name": "app.test.flater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdvQXZPK45K30UZ-54Lv9UqX-6opQG0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
